@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ...[Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 🌱 I’m currently learning ...[node.js](https://nodejs.org/en/)
-- 👯 I’m looking to collaborate on ...Flutter
+- 👯 I’m looking to collaborate on ...[Flutter](https://flutter.dev/)
 - 💬 Ask me about ...[Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 - 📫 How to reach me: ...Anthonychibuike246@gmail.com
 - 😄 Pronouns: ...he/him/his
