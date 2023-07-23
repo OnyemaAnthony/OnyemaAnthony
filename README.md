@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...[Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) more especially am exploring flutter web and desktop 
+- 🔭 I’m currently working on ...[Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) more especially i'm exploring flutter web and desktop 
 - 🌱 I’m currently learning ...[node.js](https://nodejs.org/en/)
 - 👯 I’m looking to collaborate on ...[Flutter](https://flutter.dev/)
 - 💬 Ask me about ...[Flutter](https://flutter.dev/), [Dart](https://dart.dev/) and [Java](https://www.java.com/en/)
